@@ -1,6 +1,8 @@
 # 黄小西文旅智能陪伴玩偶 · 商业落地方案
 
-GitHub Pages 在线预览：<https://lyfeng91400a-sketch.github.io/Huang-Xiaoxi-Hardware-Program/>
+GitHub Pages 在线预览：<https://huangxiaoxi611.github.io/Huang-Xiaoxi-Hardware-Program/>
+
+> 仓库已迁移至组织 [Huangxiaoxi611](https://github.com/Huangxiaoxi611/Huang-Xiaoxi-Hardware-Program)，请使用上方地址访问。
 
 ## 内容说明
 
